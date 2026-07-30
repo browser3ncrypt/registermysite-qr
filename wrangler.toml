@@ -1,0 +1,21 @@
+name = "registermysiteQR"
+main = "src/index.ts"
+compatibility_date = "2026-07-30"
+compatibility_flags = ["nodejs_compat"]
+
+# KV namespace for short links, settings, and counters
+[[kv_namespaces]]
+binding = "QRLINKS"
+id = "replace_with_your_kv_id"
+preview_id = "replace_with_your_preview_kv_id"
+
+# Create the namespace with:
+#   npx wrangler kv namespace create LINKS
+#   npx wrangler kv namespace create LINKS --preview
+
+[vars]
+SITE_NAME = "RegisterMySite"
+SITE_URL = "https://registermysite.com"
+
+# Optional: set a global admin password for the dashboard
+# ADMIN_PASSWORD = "change-me"
