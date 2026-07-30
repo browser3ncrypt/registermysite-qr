@@ -10,8 +10,8 @@ id = "replace_with_your_kv_id"
 preview_id = "replace_with_your_preview_kv_id"
 
 # Create the namespace with:
-#   npx wrangler kv namespace create LINKS
-#   npx wrangler kv namespace create LINKS --preview
+#   npx wrangler kv namespace create QRLINKS
+#   npx wrangler kv namespace create QRLINKS --preview
 
 [vars]
 SITE_NAME = "RegisterMySite"
