@@ -2,7 +2,7 @@ import { Hono } from "hono";
 import { cors } from "hono/cors";
 
 type Bindings = {
-  LINKS: KVNamespace;
+  QRLINKS: KVNamespace;
   SITE_NAME: string;
   SITE_URL: string;
   ADMIN_PASSWORD?: string;
