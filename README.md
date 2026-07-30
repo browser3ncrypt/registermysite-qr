@@ -1,4 +1,4 @@
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/browser3ncrypt/QRanalytics)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/browser3ncrypt/registermysite-qr)
 
 **QR code generator + link shortener with click & QR-scan analytics**
 
