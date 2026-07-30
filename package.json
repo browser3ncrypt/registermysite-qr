@@ -1,5 +1,5 @@
 {
-  "name": "registermysiteqr",
+  "name": "registermysiteQR",
   "version": "1.1.0",
   "private": true,
   "description": "QR code generator + password-protected link shortener with analytics",
